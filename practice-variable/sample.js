@@ -15,3 +15,15 @@ console.log(nickname_2)
 
 nickname_2 = "ichiro"
 console.log(nickname_2)
+
+
+
+function foo() {
+  let x = "webcamp"
+  {
+    let y = "hello webcamp"
+  }
+  console.log(x)
+  console.log(y)
+}
+
